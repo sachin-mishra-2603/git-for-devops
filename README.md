@@ -9,5 +9,5 @@ Includes:
 
 - Commands
 - Tutorials
-
--Videos
+- Videos
+- Cats
