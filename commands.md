@@ -19,8 +19,8 @@ git --version
 
 ```bash
 # Set username and email globally
-git config --global user.name "Sachin Mishra"
-git config --global user.email "sachinmishrasm214@gmail.com"
+git config --global user.name "ABC"
+git config --global user.email "abc@gmail.com"
 
 # View all configurations
 git config --list
